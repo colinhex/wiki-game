@@ -1,0 +1,9 @@
+{
+    "current_page": "Sausage",
+    "goal_page": "Hay",
+    "links": ["Meat", "Industry", "Farm", "Veganism"],
+    "arguments": {
+        "link": "Farm",
+        "reason": "Farms use hay to feed livestock. 'Farm' may have a link to 'Hay'."
+    }
+}

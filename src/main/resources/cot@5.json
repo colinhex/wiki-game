@@ -1,0 +1,9 @@
+{
+    "current_page": "Hockey",
+    "goal_page": "Football",
+    "links": ["Socks", "Puck", "Sport", "Ice"],
+    "arguments": {
+        "link": "Sport",
+        "reason": "Sport is a generalization that likely contains football. Sports may have a link to 'Football'"
+    }
+}

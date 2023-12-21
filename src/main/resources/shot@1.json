@@ -1,0 +1,9 @@
+{
+    "current_page": "Neptune",
+    "goal_page": "Marriage",
+    "links": ["Saturn", "Earth", "Sun", "Moon"],
+    "arguments": {
+        "link": "Saturn",
+        "reason": ""
+    }
+}

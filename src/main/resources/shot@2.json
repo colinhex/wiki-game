@@ -1,0 +1,9 @@
+{
+    "current_page": "Sausage",
+    "goal_page": "Hay",
+    "links": ["Meat", "Industry", "Farm", "Veganism"],
+    "arguments": {
+        "link": "Farm",
+        "reason": ""
+    }
+}
